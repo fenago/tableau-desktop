@@ -30,12 +30,3 @@ Labs for this course are listed below:
 6. Building Dashboards
 7. Telling a Story with Tableau
 8. Tableau Visualization
-9. Tableau Advanced Visualization
-10. Tableau for Big Data
-11. Forecasting with Tableau
-12. Advanced Analytics with Tableau
-
-### About
-Tableau has been one of the most popular business intelligence solutions in recent times, thanks to its powerful and interactive data visualization capabilities
-
-This course is enriched with features such as Tableau extracts, Tableau advanced calculations, geospatial analysis, and building dashboards. It will guide you with exciting data manipulation, storytelling, advanced filtering, expert visualization, and forecasting techniques using real-world examples. From basic functionalities of Tableau to complex deployment on Linux, you will cover it all. Moreover, you will learn advanced features of Tableau using R, Python, and various APIs.
