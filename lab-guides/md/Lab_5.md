@@ -2,8 +2,8 @@
 
 
 
-Lab 5. Tableau Desktop Advanced Filtering
-------------------------------------------------------
+Lab 5. Filtering Data
+-----------------------
 
 
 

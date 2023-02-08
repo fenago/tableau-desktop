@@ -1,7 +1,7 @@
 <img align="right" src="./images/logo.png">
 
 
-Lab 8. Tableau Visualization
+Lab 8. Customizing Visualizations
 -----------------------------------------
 
 

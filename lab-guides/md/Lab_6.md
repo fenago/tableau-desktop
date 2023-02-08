@@ -2,7 +2,7 @@
 
 
 
-Lab 6. Building Dashboards
+Lab 6. Creating Dashboards in Tableau
 ---------------------------------------
 
 

@@ -1,8 +1,8 @@
 <img align="right" src="./images/logo.png">
 
 
-Lab 2. Data Manipulation
--------------------------------------
+Lab 2. Exploring Data
+------------------------
 
 
 

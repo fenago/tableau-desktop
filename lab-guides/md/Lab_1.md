@@ -2,8 +2,8 @@
 <img align="right" src="./images/logo.png">
 
 
-Lab  1. Getting Started with Tableau Software
----------------------------------------------------------
+Lab  1. Tableau Fundamentals
+------------------------------
 
 
 In this lab, we will cover the following recipes:

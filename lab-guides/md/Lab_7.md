@@ -2,7 +2,7 @@
 
 
 
-Lab 7. Telling a Story with Tableau
+Lab 7. Creating Stories in Tableau
 ------------------------------------------------
 
 

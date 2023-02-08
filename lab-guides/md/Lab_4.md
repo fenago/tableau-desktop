@@ -2,10 +2,8 @@
 <img align="right" src="./images/logo.png">
 
 
-
-Lab 4. Tableau Desktop Advanced Calculations
----------------------------------------------------------
-
+Lab 4. Advanced Calculations and Grouping Data
+-----------------------------------------------
 
 
 In this lab, we will cover the following topics:
